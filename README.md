@@ -1,2 +1,2 @@
 # GithubReps
-A GitHub repository 
+A GitHub Repository 
